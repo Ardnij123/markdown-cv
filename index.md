@@ -45,7 +45,7 @@ __Bachelor of Informatics__
 
 ## Previous experience
 
-`2022--present`
+`2022-present`
 
 __Korespondenční seminář z informatiky__
 
