@@ -18,13 +18,12 @@ Discrete mathematics, transition systems, teaching
 
 ## Education
 
-`2021-2025`
+`2026-present`
 
-__Bachelor of Informatics__
+__Master of Theoretical computer science__
 
-- Study plan: Bioinformatics
+- Study plan: Discrete algorithms and models
 - Faculty of Informatics, Masaryk University, Brno
-- Thesis: *[Verification of binarised neural networks using ASP](https://is.muni.cz/auth/th/pllli/)*
 
 
 `2025-2026`
@@ -35,15 +34,24 @@ __Master of Artificial inteligence and data processing__
 - Faculty of Informatics, Masaryk University, Brno
 
 
-`2026-present`
+`2021-2025`
 
-__Master of Theoretical computer science__
+__Bachelor of Informatics__
 
-- Study plan: Discrete algorithms and models
+- Study plan: Bioinformatics
 - Faculty of Informatics, Masaryk University, Brno
+- Thesis: *[Verification of binarised neural networks using ASP](https://is.muni.cz/auth/th/pllli/)*
 
 
 ## Previous experience
+
+`2022--present`
+
+__Korespondenční seminář z informatiky__
+
+- Correspondence seminar in computer science for (high-school) students
+- Author of assignments
+
 
 `Autumn 2024, 2025`
 
@@ -59,14 +67,6 @@ __Foundations of Programming__
 - Assistant (homework evaluation)
 
 
-`2022-present`
-
-__Korespondenční seminář z informatiky__
-
-- Correspondence seminar in computer science for (high-school) students
-- Author of assignments
-
-
 ## Programming languages
 
 - Advanced
@@ -78,7 +78,7 @@ __Korespondenční seminář z informatiky__
 - Basic
   - PHP, Haskell
 
-## Other tech skills
+## Other tech~skills
 
 - LaTeX, Markdown, Quarto
 - Usage of Ubuntu-based system (since 2023)
