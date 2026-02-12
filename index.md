@@ -81,4 +81,5 @@ __Korespondenční seminář z informatiky__
 ## Other tech skills
 
 - LaTeX, Markdown, Quarto
-- Usage of Ubuntu-based system
+- Usage of Ubuntu-based system (since 2023)
+- GitHub
