@@ -19,7 +19,6 @@ Discrete mathematics, transition systems, teaching
 ## Education
 
 `2026-present`
-
 __Master of Theoretical computer science__
 
 - Study plan: Discrete algorithms and models
@@ -27,7 +26,6 @@ __Master of Theoretical computer science__
 
 
 `2025-2026`
-
 __Master of Artificial inteligence and data processing__
 
 - Study plan: Bioinformatics and systems biology
@@ -35,7 +33,6 @@ __Master of Artificial inteligence and data processing__
 
 
 `2021-2025`
-
 __Bachelor of Informatics__
 
 - Study plan: Bioinformatics
@@ -46,7 +43,6 @@ __Bachelor of Informatics__
 ## Previous experience
 
 `2022-present`
-
 __Korespondenční seminář z informatiky__
 
 - Correspondence seminar in computer science for (high-school) students
@@ -54,14 +50,12 @@ __Korespondenční seminář z informatiky__
 
 
 `Autumn 2024, 2025`
-
 __Introduction to Artificial inteligence__
 
 - Seminars tutor
 
 
 `Autumn 2024`
-
 __Foundations of Programming__
 
 - Assistant (homework evaluation)
