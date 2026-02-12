@@ -78,7 +78,7 @@ __Foundations of Programming__
 - Basic
   - PHP, Haskell
 
-## Other tech~skills
+## Other tech&nbsp;skills
 
 - LaTeX, Markdown, Quarto
 - Usage of Ubuntu-based system (since 2023)
