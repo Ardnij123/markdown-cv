@@ -7,7 +7,7 @@ Student and seminar tutor at FI MU Brno.
 
 <div id="webaddress">
 <a href="jindmen@gmail.com">jindmen@gmail.com</a> | +420 702 370 963
-<p />
+<br/>
 <a href="https://github.com/Ardnij123">ardnij123 @ GitHub</a> | 
 <a href="https://gitlab.fi.muni.cz/xmatusk5">xmatusk5 @ GitLab FI MU</a>
 </div>
