@@ -6,10 +6,10 @@ title: Jindřich Matuška, CV
 Student and seminar tutor at FI MU Brno.
 
 <div id="webaddress">
-<a href="jindmen@gmail.com">jindmen@gmail.com</a> | 
+<a href="jindmen@gmail.com">jindmen@gmail.com</a> | +420 702 370 963
+
 <a href="https://github.com/Ardnij123">ardnij123 @ GitHub</a> | 
-<a href="https://gitlab.fi.muni.cz/xmatusk5">xmatusk5 @ GitLab FI MU</a> |
-+420 702 370 963
+<a href="https://gitlab.fi.muni.cz/xmatusk5">xmatusk5 @ GitLab FI MU</a>
 </div>
 
 ## Study interests
@@ -38,7 +38,7 @@ __Bachelor of Informatics__
 
 - Study plan: Bioinformatics
 - Faculty of Informatics, Masaryk University, Brno
-- Thesis: *[Verification of binarised neural networks using ASP](https://is.muni.cz/auth/th/pllli/)*
+- Thesis: *[Verification of binarised neural networks using ASP](https://is.muni.cz/th/pllli/)*
 
 
 ## Previous experience
